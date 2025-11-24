@@ -85,3 +85,5 @@ num_float = float(num_str)
 print(num_float)
 
 # %%
+print(type(num_float))
+# %%
