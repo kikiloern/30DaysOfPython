@@ -16,10 +16,10 @@ type(4.5 + 6j)
 type('Aleks')
 
 # %%
-aleks_ist_cool = True
+loern_ist_cool = True
 alexander_ist_cool = False
 # %%
-print(aleks_ist_cool)
+print(loern_ist_cool)
 # %%
 print(alexander_ist_cool)
 # %%
